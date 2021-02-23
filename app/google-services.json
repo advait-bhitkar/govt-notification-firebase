@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "672723916014",
+    "project_id": "govt-noti",
+    "storage_bucket": "govt-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672723916014:android:f490540f77288555438fff",
+        "android_client_info": {
+          "package_name": "com.pribha.govtnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672723916014-8b4uer6t220b4lbhdi9suhkujd5hp2bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pribha.govtnotification",
+            "certificate_hash": "4767d2858d24514db16cc2310ba170d409f13b88"
+          }
+        },
+        {
+          "client_id": "672723916014-rf9meuqtcmhlac4kmvr6n7sn9anolqdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJhcRwpQKXtAyGLBegQ8Jf_InL7KQybw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672723916014-rf9meuqtcmhlac4kmvr6n7sn9anolqdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
